@@ -6,13 +6,10 @@
     <img src="https://github.com/Hawkins-Rebase01/.github/assets/61358755/10725350-8cea-4b8f-bc47-adbdf8997f88" alt="HiewAF9.md.png" border="0">
   </a
 </p>
-
-
-
-
 </div>
+<br>
 
-# Skill-Crunch
+# 🦥 Skill-Crunch 🦥
 
 ![Static Badge](https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin&logoColor=%237F52FF&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Jetpack_Compose-black?style=for-the-badge&logo=Jetpack%20Compose&logoColor=%234285F4&labelColor=black)
@@ -20,94 +17,83 @@
 
 **Available only for Android.**
 
-### A search engine for fashion companies to find clothes and accessories that go well together cut for a specific body type, or are made with sustainable materials.
+### An Application that tackles the gap between learning and employment. Through gamified learning and AI-powered insights, it empowers users with in-demand skills for career advancement, while offering businesses cost-effective training solutions.
 
-# Overview
-_____________________________________________________________________________________________________________________________________________
 
-Stem, a search engine for fashion, empowers individuals to embrace sustainable style. By merging AI-generated outfit suggestions with existing wardrobes and thrifted treasures, Stem promotes circular fashion, reduces textile waste, and aligns with UN sustainability goals. 
+<hr>
 
-Users discover unique, personalized looks while contributing to a global movement towards responsible consumption and climate action. This venture represents a lucrative business model built on ethical principles, paving the way for a future where fashion harmonizes with both personal expression and environmental responsibility.
+# 🔎 Overview 🔎
 
-# Our Vision
+Skill Crunch is an e-learning mobile application that aims to revolutionize online education by making it engaging and impactful. It uses gamification to boost user engagement and applies AI to personalize learning experiences and track progress for potential employers. 
+This project targets to bridge the gap between learning and employment by providing cost-effective training solutions for both individuals and businesses. Overall, Skill Crunch aspires to democratize education, equip users with in-demand skills, and foster socioeconomic progress.
 
-## We envision a future where fashion thrives in harmony with the planet and individual expression. Imagine a world where:
 
-- Style is sustainable: Every outfit seamlessly blends personal flair with eco-conscious choices.
-- AI empowers individuality: Cutting-edge algorithms curate unique looks that complement existing wardrobes and promote thrifting.
-- Waste becomes treasure: Pre-loved clothing finds new life, minimizing textile waste and reducing the industry's footprint.
-- Consciousness is cool: Embracing sustainable practices becomes the norm, aligning with UN goals and inspiring responsible consumption.
-- Fashion fosters change: Our platform empowers individuals to actively participate in a global movement towards a more sustainable future.
+<hr>
 
-### This is the vision that drives Stem. We are more than just a search engine; we are a catalyst for change, empowering individuals to rewrite the fashion narrative.
-_____________________________________________________________________________________________________________________________________________
+# 💭 Our Vision 💭
 
-# Features 
-_____________________________________________________________________________________________________________________________________________
+We envision a world where learning is a game-changer, not a chore. Imagine an app that feels like your favorite mobile game, but instead of points, you gain real-world skills that land you your dream job.  This is Skill Crunch - building a future where education empowers everyone, unlocks potential, and fuels economic growth. Buckle up, get ready to learn, and level up your life!
 
-🤖 **AI Stylist** 💛: Get personalized outfit ideas based on your wardrobe & `sustainability goals`.
+<hr>
 
-👕 **Thrift Finder** 🔍 : Discover pre-loved gems that match your `AI-generated` looks.
+# 🌟 Features 🌟
 
-🧃 **Eco-Material Search** ♻️: Explore clothing made with `recycled`, `organic`, & `upcycled materials`.
+🎮 **Gamified Learning :** Earn points, badges, and climb the leaderboard to stay motivated and engaged while you learn.
 
-🦾 **Fashion Inspiration** 🪄 : Share & discover unique styles from the communities.
+👩🏻‍🏫 **Personalized Learning :** AI tailors the learning experience to your strengths and weaknesses, maximizing your progress.
 
-🎒 **Sustainability Education** 📔 : Learn about the impact of fashion & how to make a difference.
+🛠️ **Real-World Skills Focus :** Develop in-demand skills directly applicable to your desired career path.
+
+📊 **Trackable Progress :** Monitor your learning journey and showcase your achievements to potential employers.
+
+💸 **Cost-Effective Training :** Upskill yourself or train your workforce affordably compared to traditional methods.
+
+🔐 **Secure and Scalable Platform :** Enjoy a robust and secure platform built for reliable learning and data storage.
 
 _____________________________________________________________________________________________________________________________________________
-
-## WOWDrobe
+ 
+## 🫣 Glimpse 🫣
 ![image](https://github.com/Hawkins-Rebase01/.github/assets/61358755/285f7aed-3219-4f87-94ee-f28a13303dd0)
 ![image](https://github.com/Hawkins-Rebase01/.github/assets/61358755/91658d79-d7b1-418e-bc15-3e53082bb6fc)
 
 
 _____________________________________________________________________________________________________________________________________________
 
-## Our Repositories 
+## 📦 Our Repositories 📦
 
-- [WowDrobe-App](https://github.com/WowDrobe/WowDrobe-App)
-- [WowDrobe-AI](https://github.com/WowDrobe/Wowdrobe-AI)
+- [SkillCrunch App](https://github.com/Hawkins-Rebase01/SkillCrunch)
 
-Join us for our exciting [Live Demonstration](https://www.youtube.com/watch?v=qOARrY3m29o). We invite you to watch and engage with our team as we showcase our latest project. Your feedback is invaluable to us, so feel free to share your thoughts, suggestions, or any comments you may have. We look forward to hearing from you!
+Your feedback is invaluable to us, so feel free to share your thoughts, suggestions, or any comments you may have. We look forward to hearing from you!
 
 _____________________________________________________________________________________________________________________________________________
 
 
-### Tech Stack
+## 🛠️ Tech Stack 🛠️
 | Name | Description |
 | --- | --- |
 | [`@palm-llm`](https://makersuite.google.com) | Gemini AI |
-| [`@google-maps-platform`](https://mapsplatform.google.com/) | Google Maps Platform |
 | [`@firebase`](https://firebase.google.com/) | Firebase |
-| [`@mapbox`](https://docs.mapbox.com/) | Mapbox |
-| [`Flask-backend`](https://flask.palletsprojects.com/en/3.0.x/) | Flask |
 | [`@compose`](https://developer.android.com/jetpack/compose) | Jetpack Compose - Android |
 | [`@materialUI`](https://m3.material.io/) | Material 3 |
 | [`@ktor-client`](https://ktor.io/docs/create-client.html) | Ktor CLient |
 | [`@navigation-compose`](https://developer.android.com/jetpack/compose/navigation) | Navigation Compose |
 | [`@coil`](https://coil-kt.github.io/coil/compose/) | Coil-Compose |
 | [`@ksp-room`](https://developer.android.com/build/migrate-to-ksp) | Room Android |
-| [`@dagger-hilt`](https://developer.android.com/training/dependency-injection/hilt-android) | Dagger-hilt |
-| [`@location-provider-client`](https://developer.android.com/develop/sensors-and-location/location/retrieve-current) | Fused Location Provider Client |
 
-## Steps To Run on your Device
+## 💻 Steps To Run on your Device 💻
 - The Following project was build using `AGP 8.1.1`
 -  Check your Android Studio's AGP.
 -  If it is `lower` than given AGP follow given steps :-
 -  -  #### Go to gradle/libs.version.toml
    -  #### In [versions] change value of AGP as per requirement
 
-## Steps To Install on your Device
+## 📲 Steps To Install on your Device 📲
 - Visit the following link 
-- [Install Now](https://drive.google.com/drive/folders/16Yc_FqdgY05mhGdN9qgJWAqGVmaLpMP3?usp=drive_link)
+- [Install Now](https://drive.google.com/drive/folders/12XN_n5i2NoyYDGNqe65QKfP-DLkOntHh?usp=sharing)
 - Minimum SDK `27` --> `Android version 8.1`
 
 _____________________________________________________________________________________________________________________________________________
 
-## Authors
-
-[@khyatigupta](https://github.com/khyatigupta369)
-[@prathikshetty](https://github.com/prathikshetty2002)
-[@kamalika](https://github.com/kamalika0363)
+## ✍🏻 Authors ✍🏻
 [@kailashsharma](https://github.com/thekaailashsharma)
+[@khushipanwar](https://github.com/smilewithkhushi)
