@@ -61,7 +61,7 @@ ________________________________________________________________________________
 
 ## 📦 Our Repositories 📦
 
-- [SkillCrunch App](https://github.com/Hawkins-Rebase01/SkillCrunch)
+- [SkillCrunch App](https://github.com/Hawkins-Rebase01/project)
 
 Your feedback is invaluable to us, so feel free to share your thoughts, suggestions, or any comments you may have. We look forward to hearing from you!
 
